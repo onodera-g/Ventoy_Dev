@@ -1,0 +1,10 @@
+[Credits]
+Background Image:
+ - Title: Abstract Blue (Wavy blue object on black background)
+ - Author: Warren Umoh
+ - Source: Unsplash
+ - Link: https://unsplash.com/photos/AMC_Xtz59fA
+ - License: Unsplash License
+
+Window Frame & Design:
+ - Created by: 0nodera
