@@ -1,0 +1,45 @@
+
+# Global Property
+title-text: ""
+desktop-image: "background.jpg"
+desktop-color: "#000000"
+terminal-font: "NotoSans14 14"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Boot menu
++ boot_menu {
+    left = 20%
+    top = 25%
+    width = 60%
+    height = 50%
+    item_font = "NotoSans14 14"
+    selected_item_font = "NotoSans14 14"
+    item_color = "#808080"
+    selected_item_color = "#ffffff"
+    item_height = 50
+    item_spacing = 10
+}
+
+# Help text at bottom
++ label {
+    top = 95%
+    left = 0
+    width = 100%
+    align = "center"
+    text = "Enter : Boot   e : Edit   c : Command"
+    font = "NotoSans16 16"
+    color = "#ffffff"
+}
+
+# Version display
++ label {
+    top = 95%
+    left = 80%
+    width = 15%
+    align = "right"
+    text = "Ventoy"
+    font = "NotoSans14 14"
+    color = "#ffffff"
+}
