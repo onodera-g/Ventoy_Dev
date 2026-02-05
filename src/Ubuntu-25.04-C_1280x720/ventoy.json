@@ -1,0 +1,8 @@
+{
+    "theme": {
+        "file": "/ventoy/theme/Ubuntu-25.04-C_1280x720/theme.txt",
+        "gfxmode": "1280x720",
+        "display_mode": "GUI",
+        "ventoy_color": "#ffffff"
+    }
+}

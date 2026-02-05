@@ -1,0 +1,39 @@
+# Global Property
+title-text: ""
+desktop-image: "background.jpg"
+desktop-color: "#000000"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Boot menu
++ boot_menu {
+    left = 25%
+    top = 25%
+    width = 50%
+    height = 50%
+    item_color = "#808080"
+    selected_item_color = "#ffffff"
+    item_height = 50
+    item_spacing = 10
+}
+
+# Help text at bottom
++ label {
+    top = 95%
+    left = 0
+    width = 100%
+    align = "center"
+    text = "Enter : Boot   e : Edit   c : Command"
+    color = "#ffffff"
+}
+
+# Version display
++ label {
+    top = 95%
+    left = 80%
+    width = 15%
+    align = "right"
+    text = "Ventoy"
+    color = "#ffffff"
+}
