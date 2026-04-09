@@ -28,6 +28,15 @@ Each theme supports multiple resolutions (1280×720, 1920×1080).
 ### Ubuntu-25.04-C (Northern Lights)
 ![Ubuntu-25.04-C](sample/Vy_Ubuntu-25.04-C.png)
 
+### Ubuntu-26.04-A (Anomaly (Ubuntu))
+![Ubuntu-26.04-A](sample/Vy_Ubuntu-26.04-A.png)
+
+### Ubuntu-26.04-B (Red Acer)
+![Ubuntu-26.04-B](sample/Vy_Ubuntu-26.04-B.png)
+
+### Ubuntu-26.04-C (Winter Grand Triangle)
+![Ubuntu-26.04-C](sample/Vy_Ubuntu-26.04-C.png)
+
 ## インストール方法 / Installation
 
 1. VentoyをインストールしたUSBに、`/ventoy/theme/`となるようにフォルダを作成する

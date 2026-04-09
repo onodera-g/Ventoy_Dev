@@ -1,0 +1,10 @@
+[Credits]
+Background Image:
+ - Title: Autumn near the Matterhorn
+ - Author: mendhak
+ - Source: Ubuntu 25.04 Wallpaper Competition Winner
+ - License: CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0)
+ - License Link: https://creativecommons.org/licenses/by-sa/4.0/
+
+Window Frame & Design:
+ - Created by: 0nodera

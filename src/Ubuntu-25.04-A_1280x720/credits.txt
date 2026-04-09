@@ -7,6 +7,7 @@ Background Image:
  - License Link: https://creativecommons.org/licenses/by-sa/4.0/
 
 Window Frame & Design:
- - Created by: [あなたの名前]
+ - Created by: 0nodera
+
  
  
